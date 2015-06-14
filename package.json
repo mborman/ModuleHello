@@ -15,9 +15,5 @@
   "bugs": {
     "url": "https://github.com/mborman/ModuleHello/issues"
   },
-  "homepage": "https://github.com/mborman/ModuleHello",
-  "dependencies": {
-    "express": "^4.12.4",
-    "requirejs": "^2.1.18"
-  }
+  "homepage": "https://github.com/mborman/ModuleHello"
 }
