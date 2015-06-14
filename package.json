@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/mborman/ModuleHello",
   "dependencies": {
-    "amdefine": "^0.1.1"
+    "amdefine": "^0.1.1",
+    "moment": "^2.10.3"
   }
 }
