@@ -1,6 +1,14 @@
 if (typeof define !== 'function') {
   var define = require('amdefine')(module);
+} else {
+  require.config({
+    paths: {
+      //lib: 'node_modules',
+      moment: './node_nodules/momemnt/moment'
+    }
+  });
 }
+
 
 define(['moment'], function(moment) {
 
