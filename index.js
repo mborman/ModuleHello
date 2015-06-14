@@ -4,11 +4,9 @@ if (typeof define !== 'function') {
 
 define(function(require) {
 
-  return function() {
-    return {
-      value: function(){
-        return "Hello";
-      }
+  return {
+    value: function() {
+      return "Hello";
     }
   };
 });
