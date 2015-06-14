@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mborman/ModuleHello/issues"
   },
-  "homepage": "https://github.com/mborman/ModuleHello"
+  "homepage": "https://github.com/mborman/ModuleHello",
+  "dependencies": {
+    "amdefine": "^0.1.1"
+  }
 }
