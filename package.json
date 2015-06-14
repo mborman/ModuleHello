@@ -1,0 +1,23 @@
+{
+  "name": "ModuleHello",
+  "version": "0.0.1",
+  "description": "AMD module to return the word \"Hello\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mborman/ModuleHello.git"
+  },
+  "author": "Mike Borman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mborman/ModuleHello/issues"
+  },
+  "homepage": "https://github.com/mborman/ModuleHello",
+  "dependencies": {
+    "express": "^4.12.4",
+    "requirejs": "^2.1.18"
+  }
+}
