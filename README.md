@@ -1,2 +1,2 @@
 # ModuleHello
-This module will retunr the word "Hello"
+This module will return the word "Hello". use `.value()`
